@@ -21,5 +21,4 @@ A library project built with MongoDB and Express, with a customized front-end to
 
 ---
 
-> ✨ I'm always learning, building, and improving.  
-> Thanks for stopping by!
+> Every line of code is art 🎨
