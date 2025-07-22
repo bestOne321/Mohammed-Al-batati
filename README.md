@@ -16,7 +16,7 @@ A clean and simple CV builder that helps you create professional, ATS-friendly r
 A library project built with MongoDB and Express, with a customized front-end to browse and manage books.
 
 ## 📱 Connect with Me
-- [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Moha_programmer?t=kGTg-dQEjKkmdHO_jOmIhQ&s=09)
+- [![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Moha_programmer)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bestOne321)
 
 ---
